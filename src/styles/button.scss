@@ -13,6 +13,9 @@
   border: 1px solid $blue-accent;
   cursor: pointer;
   height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   &:hover {
     background-color: #fff;
